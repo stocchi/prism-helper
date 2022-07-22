@@ -1,12 +1,12 @@
 {
 	"configs": [
 		{
-			"key": "toto-crystal",
+			"key": "cynda-prism",
 			"game": "CRYSTAL",
 			"starter": {
-				"evoFamily": "FERALIGATR",
+				"evoFamily": "TYPHLOSION",
 				"startStage": 0,
-				"startLevel": 5,
+				"startLevel": 10,
 				"boostedExp": false
 			},
 			"wildPokes": [
@@ -44,15 +44,15 @@
 				}
 			],
 			"trainers": [
-				"0x39AEF", 
-				"MIKEY", 
-				"ABE", 
-				"ROD", 
-				"FALKNER", 
-				"GORDON", 
-				"RUSSELL", 
-				"BILL", 
-				"ANTHONY", 
+				"0x39AEF",
+				"MIKEY",
+				"ABE",
+				"ROD",
+				"FALKNER",
+				"GORDON",
+				"RUSSELL",
+				"BILL",
+				"ANTHONY",
 				"0x3A791",
 				"0x3BA06",
 				"0x3A633",
@@ -81,16 +81,16 @@
 				"totoDVNumbersFontSizeSmall": 14,
 				"totoDVNumbersFont": "Arial",
 				"totoDVNumbersFontExtra": 1,
-				"totoDVNumbersColor": [0,0,0]			
+				"totoDVNumbersColor": [0,0,0]
 			}
 		},
 		{
-			"key": "toto-gold",
+			"key": "marill7-prism",
 			"game": "GOLD",
 			"starter": {
-				"evoFamily": "FERALIGATR",
+				"evoFamily": "AZUMARILL",
 				"startStage": 0,
-				"startLevel": 5,
+				"startLevel": 7,
 				"boostedExp": false
 			},
 			"wildPokes": [
@@ -132,15 +132,15 @@
 				}
 			],
 			"trainers": [
-				"0x39A92", 
-				"MIKEY", 
-				"DON", 
-				"ABE", 
-				"ROD", 
-				"FALKNER", 
-				"ALBERT", 
-				"RALPH", 
-				"DANIEL", 
+				"0x39A92",
+				"MIKEY",
+				"DON",
+				"ABE",
+				"ROD",
+				"FALKNER",
+				"ALBERT",
+				"RALPH",
+				"DANIEL",
 				"RUSSELL",
 				"BILL",
 				"RAY",
@@ -172,16 +172,16 @@
 				"totoDVNumbersFontSizeSmall": 14,
 				"totoDVNumbersFont": "Arial",
 				"totoDVNumbersFontExtra": 1,
-				"totoDVNumbersColor": [0,0,0]			
+				"totoDVNumbersColor": [0,0,0]
 			}
 		},
 		{
-			"key": "cynda-silver",
-			"game": "SILVER",
+			"key": "marill8-prism",
+			"game": "GOLD",
 			"starter": {
-				"evoFamily": "TYPHLOSION",
+				"evoFamily": "AZUMARILL",
 				"startStage": 0,
-				"startLevel": 5,
+				"startLevel": 8,
 				"boostedExp": false
 			},
 			"wildPokes": [
@@ -223,15 +223,15 @@
 				}
 			],
 			"trainers": [
-				"0x39A9E", 
-				"MIKEY", 
+				"0x39A9E",
+				"MIKEY",
 				"DON",
 				"NICO",
-				"ABE", 
-				"ROD", 
-				"FALKNER", 
-				"ALBERT", 
-				"DANIEL", 
+				"ABE",
+				"ROD",
+				"FALKNER",
+				"ALBERT",
+				"DANIEL",
 				"RUSSELL",
 				"BILL",
 				"RAY",
@@ -263,11 +263,11 @@
 				"totoDVNumbersFontSizeSmall": 14,
 				"totoDVNumbersFont": "Arial",
 				"totoDVNumbersFontExtra": 1,
-				"totoDVNumbersColor": [0,0,0]		
+				"totoDVNumbersColor": [0,0,0]
 			}
 		},
 		{
-			"key": "entei-crystal",
+			"key": "empty",
 			"game": "CRYSTAL",
 			"starter": {
 				"evoFamily": "ENTEI",
@@ -303,5 +303,5 @@
 			}
 		}
 	],
-	"lastUsedConfig": "toto-crystal"
+	"lastUsedConfig": "cynda-prism"
 }
